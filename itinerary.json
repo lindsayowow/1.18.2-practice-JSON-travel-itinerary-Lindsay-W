@@ -1,0 +1,42 @@
+{
+    "Trip Name": "Sheri's Escape from Hadestown",
+    "Traveler": {
+        "name": "Sheri Wilson",
+        "contact": {
+            "email": "sheri-.e.wilson.tech@gmail.com",
+            "phone": "618-701-4594"
+        }
+    },
+    "Destinations": [
+        {
+            "location": "Hawaii",
+            "arrivalDate": "2026-02-02",
+            "departureDate": "2026-03-30",
+            "activities": [
+                {
+                    "title": "skydiving",
+                    "duration": "5 hours"
+                },
+                {
+                    "title": "snorkling",
+                    "duration": "2 hours"
+                }
+            ]
+        },
+        {
+            "location": "Costa Rica",
+            "arrivalDate": "2026-03-30",
+            "departureDate": "2026-05-03",
+            "activities": [
+                {
+                    "title": "sloth hugging",
+                    "duration": "1.5 hours"
+                },
+                {
+                    "title": "surfing",
+                    "duration": "2.75 hours"
+                }
+            ]
+        }
+    ]
+}
