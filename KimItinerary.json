@@ -1,0 +1,69 @@
+{
+    "Trip Name": "Sheri's Escape from Hadestown",
+    "Traveler": {
+        "name": "Sheri Wilson",
+        "contact": {
+            "email": "sheri-.e.wilson.tech@gmail.com",
+            "phone": "618-701-4594"
+        }
+    },
+    "Destinations": [
+        {
+            "location": "Hawaii",
+            "arrivalDate": "2026-02-02",
+            "departureDate": "2026-03-30",
+            "activities": [
+                {
+                    "title": "skydiving",
+                    "duration": "5 hours"
+                },
+                {
+                    "title": "snorkling",
+                    "duration": "2 hours"
+                }
+            ],
+            "transportation": {
+                "mode": "Car",
+                "cost": 200.00
+            }
+        },
+        {
+            "location": "Costa Rica",
+            "arrivalDate": "2026-03-30",
+            "departureDate": "2026-05-03",
+            "activities": [
+                {
+                    "title": "sloth hugging",
+                    "duration": "1.5 hours"
+                },
+                {
+                    "title": "surfing",
+                    "duration": "2.75 hours"
+                }
+            ],
+            "transportation": {
+                "mode": "Flight",
+                "cost": 900.00
+            }
+        },
+        {
+            "location": "Punta Cana",
+            "arrivalDate": "2026-04-20",
+            "departureDate": "2026-04-30",
+            "activities": [
+                {
+                    "title": "sleeping",
+                    "duration": "8 hours"
+                },
+                {
+                    "title": "tour",
+                    "duration": "2 hours"
+                }     
+            ],
+           "transportation": {
+                "mode": "Cruise Ship",
+                "cost": 2000.00
+            }
+        }
+    ]
+}
