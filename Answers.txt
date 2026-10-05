@@ -1,0 +1,23 @@
+You will need to find a partner and complete the following tasks together:
+
+Answer the questions:
+
+Nesting: How did you organize the additional details in the traveler
+field, and how does it improve the organization of the data overall?
+
+Activities are within the destination. Objects in objects in arrays in objects!!!
+
+Arrays: For the destinations and activities, what data structure
+did you use? What impact did this decision have?
+
+Titles and durations are within indices--they have index values!
+
+Scalability: How could this JSON structure be expanded to include
+additional details, such as hotel information or transportation options?
+
+Additional objects!
+
+Real-World Application: How would this data be useful in a travel app
+or API?
+
+Rankings for top-rated places by index (e.g. Yelp!)
